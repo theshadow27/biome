@@ -1,5 +1,14 @@
 # @biomejs/biome
 
+## 2.3.9
+
+### Patch Changes
+
+- [#8249](https://github.com/biomejs/biome/pull/8249) [`893e36c`](https://github.com/biomejs/biome/commit/893e36c7c39d210ccedfe040bb414945262b5d92) Thanks [@cormacrelf](https://github.com/cormacrelf)! - Addressed [#7538](https://github.com/biomejs/biome/issues/7538). Reduced the
+  volume of logging from the LSP server.
+
+  Use `biome clean` to remove large logs.
+
 ## 2.3.8
 
 ### Patch Changes
